@@ -4,7 +4,7 @@ A real-time, interactive Julia set renderer built with OpenGL, GLFW, and GLEW in
 
 ![Julia Set Preview](preview.png)
 
-## Controls
+## Controls 
 
 | Input | Action |
 |---|---|
